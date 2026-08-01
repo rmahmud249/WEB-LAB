@@ -18,3 +18,43 @@ img{
     vertical-align: middle;
 }
 /*==========CSS COMMON CODE END===========*/
+.resume-container{
+    width: 800px;
+    min-height: 1130px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+.resume-top-content{
+    width: 800px;
+    height:270px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    position: absolute;
+    background-color:#20AFE4;
+}
+.resume-top-content .resume-img img{
+    height:300px;
+    margin-left:50px;
+    border: 8px solid #fff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+.resume-top-content .resume-title{
+    text-align: center;
+    padding-left: 45px;
+}
+.resume-top-content .resume-title h1{
+    color: #fff;
+    font-size:40px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.resume-top-content .resume-title h2{
+    color: #fff;
+    font-size:20px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
