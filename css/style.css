@@ -328,7 +328,7 @@ img{
     background-color: #20AFE4;
     border-radius: 50%;
 }
-/*===========================*/
+/*===========Project item part=============*/
 .project-items{
     position: relative;
 }
@@ -391,7 +391,8 @@ img{
     font-size: 16px;
     font-weight: 800;
 }
-/*==========================*/
+/*==========Project item part end===============*/
+/*==========Publication part start==============*/
 .publication-title h2{
     color:#081f27;
     font-size: 25px;
@@ -444,7 +445,8 @@ img{
     background-color: #20AFE4;
     border: 4px solid #fff;
 }
-/*=================================*/
+/*=============Publication part end===================*/
+/*=============Technical part start===================*/
 .techical-skills{
     position: relative;
 }
@@ -511,3 +513,4 @@ img{
     border-radius: 50px;
     background-color: #20AFE4;
 }
+/*=============Techinical Part end==================*/
