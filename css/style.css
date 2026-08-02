@@ -25,6 +25,7 @@ img{
     overflow: hidden;
     box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.4);
 }
+/*==========Resume top content part===========*/
 .resume-top-content{
     width:800px;
     height: 260px;
@@ -57,6 +58,8 @@ img{
    padding-left: 40px;
    text-transform: uppercase;
 }
+/*==========Resume top content part end===========*/
+/*==========Resume middle content part ===========*/
 .resume-middle-contnet{
     height: 180px;
     display: flex;
@@ -153,6 +156,8 @@ img{
     border-radius: 50px;
     border: 3px solid #0F3A49;
 }
+/*==========Resume middle content part end===========*/
+
 
 
 
